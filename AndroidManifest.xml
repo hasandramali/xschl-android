@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Set your package name here -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="in.celest.xash3d.sohl12"
+      package="in.celest.xash3d.schl"
       android:versionCode="1170"
-      android:versionName="1.1">
+      android:versionName="1.0">
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
-    <application android:label="SOHL12Launcher"
+    <application android:label="Xash3D SCo-op"
 		 android:debuggable="false"
-		 android:icon="@drawable/logo_xash_spirit">
+		 android:icon="@drawable/logo_xash_schl">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
-                  android:label="SOHL12Launcher"
+                  android:label="Xash3D SCo-op"
 			android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
