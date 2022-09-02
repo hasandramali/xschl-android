@@ -8,7 +8,7 @@
     <!-- Set your application name here -->
     <application android:label="Xash3D SCo-op"
 		 android:debuggable="false"
-		 android:icon="@drawable/logo_xash_schl">
+		 android:icon="@drawable/logo_xash_spirit">
     <!-- Set your launcher title here -->
         <activity android:name="in.celest.xash3d.LauncherActivity"
                   android:label="Xash3D SCo-op"
