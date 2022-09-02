@@ -1,0 +1,3 @@
+[submodule "jni/xash3d-schl"]
+	path = jni/xash3d-schl
+	url = https://github.com/hasandramali/xash3d-schl.git
